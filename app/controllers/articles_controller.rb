@@ -39,7 +39,7 @@ class ArticlesController < ApplicationController
         @article.destroy
 
         flash.notice = "Article '#{@article.title}' Deleted!"
-        redirect_to '/articles'
+        redirect_to articles_path
     end
 end
  
