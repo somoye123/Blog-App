@@ -22,6 +22,8 @@ The topics/areas covered during this project include:
 
 * Understanding Gems
 
+![Screenshot](./screenshot.jpg)
+
 [Live Demo Link](http://blogon-rails.herokuapp.com/)
 
 
