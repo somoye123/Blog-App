@@ -40,15 +40,9 @@ To get a local copy of the repository please run the following commands on your 
 $ cd <folder>
 ```
 
-```
-$ git clone git@github.com:somoye123/Blog-App.git
-```
-
-```
-$ cd Blog-App
-```
-
 ~~~bash
+$ git clone git@github.com:somoye123/Blog-App.git
+$ cd Blog-App
 $ bundle install 
 ~~~
 
